@@ -2,6 +2,10 @@
 
 Welcome to the Simon Game – a classic memory game that tests and challenges your memory and pattern recognition skills. This implementation is crafted using HTML, CSS, and JavaScript to bring the nostalgic joy of Simon into the digital realm.
 
+##Live URL
+Click on below link to play
+https://mikun2001.github.io/SimonGame/
+
 ## Features
 
 ### 1. Responsive Design
